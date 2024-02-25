@@ -58,8 +58,8 @@ Terceiro projeto de ciência de dados do curso de graduação em Ciência de Dad
 
 
 ## Base de Dados
-Listagem de filmes e séries da Netflix, disponível em: [Netflix Movies and TV Shows
-](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+- Listagem de compras e avaliações de jogos por usuários na [Steam](https://store.steampowered.com), disponível em: [Steam Video Games](https://www.kaggle.com/datasets/tamber/steam-video-games/data)
+- Listagem de gêneros por jogo, disponível em: [Steam Games Dataset](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset)
 
 ## Configurando ambiente
 
