@@ -64,6 +64,7 @@ Listagem de filmes e séries da Netflix, disponível em: [Netflix Movies and TV 
 ## Configurando ambiente
 
 `conda create -n <env_name> python=3.12 -y`
+`pip install -r requirements.txt`
 
 --------
 
