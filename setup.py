@@ -6,5 +6,5 @@ setup(
     version='0.1.0',
     description='Sistema de recomendação',
     author='Grupo RecSys',
-    license='MIT',
+    license='Apache',
 )
