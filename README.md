@@ -64,6 +64,7 @@ Terceiro projeto de ciência de dados do curso de graduação em Ciência de Dad
 ## Configurando ambiente
 
 `conda create -n <env_name> python=3.12 -y`
+
 `pip install -r requirements.txt`
 
 --------
