@@ -5,7 +5,7 @@ Terceiro projeto de ciência de dados do curso de graduação em Ciência de Dad
 
 ### Integrantes
 - Daniel Rodrigues da Silva
-- 
+- Felipe Dal Molin
 - 
 
 ### Organização do Projeto
