@@ -1,12 +1,17 @@
-# Sistema de Recomendação
+# Sistema de Recomendação para Jogos da Steam
 
 ## Sobre o projeto
-Terceiro projeto de ciência de dados do curso de graduação em Ciência de Dados da Universidade Presbiteriana Mackenzie.
+Terceiro projeto de ciência de dados do curso de graduação em Ciência de Dados da Universidade Presbiteriana Mackenzie, com foco em modelos de aprendizado não supervisionado.
+
+O objetivo deste trabalho será gerar recomendações de jogos com base na similaridade entre os gêneros e categorias nos quais estão inseridos, replicando o comportamento já existente da recomendação de jogos na Steam, conforme ilustra imagem abaixo:
+
+![Exemplo](docs/image/rec_steam.png)
 
 ### Integrantes
 - Daniel Rodrigues da Silva
-- 
-- 
+- Felipe Dal Molin
+- João Pedro Abbade
+- Rafael Rodrigues Nascimento
 
 ### Organização do Projeto
 
@@ -58,8 +63,7 @@ Terceiro projeto de ciência de dados do curso de graduação em Ciência de Dad
 
 
 ## Base de Dados
-- Listagem de compras e avaliações de jogos por usuários na [Steam](https://store.steampowered.com), disponível em: [Steam Video Games](https://www.kaggle.com/datasets/tamber/steam-video-games/data)
-- Listagem de gêneros por jogo, disponível em: [Steam Games Dataset](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset)
+- Listagem de jogos disponíveis na Steam, disponível em: [Steam Games Dataset](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset)
 
 ## Configurando ambiente
 
