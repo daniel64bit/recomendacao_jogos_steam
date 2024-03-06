@@ -4,7 +4,13 @@ authors:
 - family-names: "Rodrigues da Silva"
   given-names: "Daniel"
   linkedin: "www.linkedin.com/in/danielrod147/"
-title: "RecSys"
+- family-names: "Dal Molin"
+  given-names: "Felipe"
+- family-names: "Abbade"
+  given-names: "João Pedro"
+- family-names: "Rodrigues Nascimento"
+  given-names: "Rafael"
+title: "recomendacao_jogos_steam"
 version: 1.0.0
 date-released: 2024-02-24
-url: "https://github.com/daniel64bit/RecSys"
+url: "https://github.com/daniel64bit/recomendacao_jogos_steam"
