@@ -63,7 +63,7 @@ O objetivo deste trabalho será gerar recomendações de jogos com base na simil
 
 
 ## Base de Dados
-- Listagem de jogos disponíveis na Steam, disponível em: [Steam Games Dataset](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset)
+- Listagem de jogos disponíveis na Steam, disponível em: [Steam Games Dataset]([https://www.kaggle.com/datasets/fronkongames/steam-games-dataset](https://huggingface.co/datasets/FronkonGames/steam-games-dataset))
 
 ## Configurando ambiente
 
